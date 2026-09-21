@@ -29,7 +29,7 @@ vorbereiten, gibt es zusätzlich ein eigenes B2B-Modell mit Team-Verwaltung.
 
 ## Live-Demo
 
-**[leadspeak-ai.vercel.app](https://leadspeak-ai.vercel.app)**
+**[leadspeak.de](https://leadspeak.de)**
 
 Der Link ist live und kann direkt ausprobiert werden — siehe [„Selbst testen“](#für-partner-selbst-testen) weiter unten.
 
@@ -102,6 +102,14 @@ jeweilige Mitglied der Sichtbarkeit separat und widerrufbar zugestimmt hat. Firm
 allein reicht nicht aus; individuelle Aufnahmen, Transkripte oder Einzel-Scores werden grundsätzlich
 nicht an Arbeitgeber weitergegeben.
 
+### 🆕 Produktionsreif: eigene Domain, Rechtstexte, faires Nutzungsmodell
+
+LeadSpeak AI läuft unter eigener Domain (`leadspeak.de`) mit vollständigem Impressum, AGB und
+Datenschutzerklärung. Jedes Konto hat ein kostenloses monatliches Kontingent an KI-Sprachanalysen;
+darüber hinaus lässt sich direkt in der App Interesse an einem Abo hinterlegen. Aufnahmen werden
+automatisch gelöscht, sobald die KI-Analyse abgeschlossen ist — Transkript, Metriken und Bewertung
+bleiben für den Fortschrittsvergleich erhalten, das Rohaudio wird nicht länger vorgehalten als nötig.
+
 ---
 
 ## Screenshots
@@ -121,7 +129,7 @@ nicht an Arbeitgeber weitergegeben.
 Die Live-App unterstützt Self-Service-Registrierung — es wird kein gemeinsamer Demo-Zugang
 benötigt oder veröffentlicht:
 
-1. **Einzelaccount:** Auf [leadspeak-ai.vercel.app](https://leadspeak-ai.vercel.app) auf
+1. **Einzelaccount:** Auf [leadspeak.de](https://leadspeak.de) auf
    „Jetzt registrieren“ klicken, ein eigenes Test-Konto anlegen und direkt durch Onboarding,
    eine Lektion und das Sprachlabor gehen. Im Profil lässt sich jederzeit zwischen dem
    IHK-Zertifikatscoach und der Allgemeinen Führungskommunikation umschalten.
