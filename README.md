@@ -1,6 +1,10 @@
 # LeadSpeak AI
 
-**Der Sprechtrainer für die IHK-Zertifikatsprüfung — und für Führungskommunikation im Alltag.**
+**Damit dein Wissen genauso überzeugend klingt, wie es ist.**
+
+Üben statt nur lesen. Sofortiges Feedback. Jeden Tag ein Stück sicherer.
+
+*Der Sprechtrainer für die IHK-Zertifikatsprüfung — und für Führungskommunikation im Alltag.*
 
 > ℹ️ Dies ist das **öffentliche Präsentations-Repository** von LeadSpeak AI. Es enthält bewusst
 > **keinen Quellcode** — nur Konzept, Features und Screenshots. Die Anwendung selbst liegt in
